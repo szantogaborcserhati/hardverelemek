@@ -8,6 +8,7 @@ h1 {text-align: center; color:brown; text-shadow: 3px 3px 3px black;}
 h2 {color:brown;}
 nav {display:flex; flex-direction:row; justify-content:space-around; width:90%; margin-left:auto; margin-right: auto;padding:2em;background-color:rgba(255,255,0,0.6); margin-top:2em; box-shadow:3px 3px 3px black}
 .wrapper {width:94%;margin-left:auto; margin-right: auto;padding:2em; margin-top:2em; box-shadow:3px 3px 3px black; display:flex;flex-direction:row; justify-content:space-between; }
+p {text-align: justify;}
 aside {width:20%;background-color:rgba(255,255,0,0.6)}
 content {width:70%;background-color:rgba(255,255,0,0.6); border-left:5px solid brown; padding-left:2% }
 .szabados img {width:50%; padding:5%;   display:block;margin-left: auto;margin-right: auto;}
